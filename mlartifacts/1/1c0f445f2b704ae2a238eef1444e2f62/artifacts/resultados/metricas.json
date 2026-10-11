@@ -1,0 +1,7 @@
+{
+    "accuracy": 0.9824561403508771,
+    "precision_malignant": 1.0,
+    "recall_malignant": 0.9523809523809523,
+    "f1_malignant": 0.975609756097561,
+    "roc_auc": 0.9970238095238094
+}
